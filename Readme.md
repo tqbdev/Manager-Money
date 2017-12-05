@@ -20,6 +20,7 @@ có muốn lưu trước khi thoát hay không. Có chức năng cho người d�
 như là tổng cộng và phần trăm của từng loại, và tổng chi tiêu hoặc thu nhập.
 8. Biểu đồ luôn được cập nhật lúc người dùng thay đổi dữ liệu.
 9. Danh sách chi tiêu, thu nhập sử dụng ListView, nên có một số chức năng nâng cao:
+
 - Sắp xếp dữ liệu của một cột khi người dùng bấm vào cột,
 có hiển thị dấu mũi tên để biết khi nào là tăng khi nào là giảm.
 - Khi nhấp chuột phải vào một item trong danh sách,
@@ -40,7 +41,7 @@ nhưng lưu ý khi chỉnh sửa bằng excel phải lưu file dưới dạng CS
 như vậy chương trình mới có thể đọc được.
 
 ### ------------ LINK BITBUCKET -----------
-> https://1512029@bitbucket.org/1512029/hook.git
+> https://1512029@bitbucket.org/1512029/midterm.git
 ```
 Chú ý link repository trên là private đã add key public của giáo viên.
 Đồng thời add user tdquang_edu vào repository với quyền read.
